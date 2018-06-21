@@ -47,7 +47,7 @@ public class Drawer {
             case OPEN:
                 return Color.WHITESMOKE;
             case MARKED:
-                return Color.LIGHTGREEN;
+                return Color.GREEN;
             default:
                 return Color.LIGHTGRAY;
         }
